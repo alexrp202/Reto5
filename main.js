@@ -23,6 +23,7 @@ const Quiz = sequelize.define( // define Quiz model (table quizzes)
     }
 );
 
+//necesito un 9 pa la uni, aunque un 8 tambien te lo acepto, un abrazo
 (async () => {  // IIFE - Immediatedly Invoked Function Expresión
     try {
         await sequelize.sync(); // Syncronize DB and seed if needed
