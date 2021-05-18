@@ -1,15 +1,15 @@
 {
-    "name": "MOOC_node_mod6_quiz-server_entrega",
-    "author": "ging-moocs",
+    "name": "Reto 5",
+    "author": "alexrp202",
     "license": "MIT",
-    "repository": "https://github.com/ging-moocs/MOOC_node_mod6_quiz-server_entrega",
+    "repository": "https://github.com/alexrp202/Reto5",
     "version": "0.0.0",
     "main": "main.js",
     "scripts": {
         "start": "node main.js"
     },
     "info": {
-        "githubURL": "ging-moocs/MOOC_node_mod6_quiz-server_entrega",
+        "githubURL": "alexrp202/Reto5",
         "serverUrl": "https://autocorector.dit.upm.es/",
         "courseId": "2",
         "assignmentId": "11"
